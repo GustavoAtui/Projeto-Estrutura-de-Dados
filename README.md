@@ -18,6 +18,12 @@ O projeto está dividido em cinco áreas principais:
 - Desenfileirar paciente após atendimento
 - Mostrar a fila de atendimento
 
+### Pesquisa de Pacientes
+- Pesquisar pacientes por ano de nascimento
+- Pesquisar pacientes por mês de nascimento
+- Pesquisar pacientes por dia de nascimento
+- Pesquisar pacientes por idade
+
 ### Desfazer Operação
 - Desfazer o último enfileiramento ou desenfileiramento
 
@@ -31,5 +37,5 @@ O projeto está dividido em cinco áreas principais:
 - **Lista**: Utilizada para armazenar e gerenciar os pacientes cadastrados.
 - **Fila**: Usada para controlar a ordem de atendimento dos pacientes.
 - **Pilha**: Implementada para desfazer a última operação de enfileiramento ou desenfileiramento.
-- **Árvore Binária**: Pode ser utilizada para armazenar os pacientes de forma ordenada, facilitando buscas.
+- **Árvore Binária**: Utilizada para pesquisas rápidas de pacientes.
 
