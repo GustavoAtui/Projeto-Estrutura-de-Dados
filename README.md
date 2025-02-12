@@ -19,9 +19,9 @@ O projeto está dividido em cinco áreas principais:
 - Mostrar a fila de atendimento
 
 ### Pesquisa de Pacientes
-- Pesquisar pacientes por ano de nascimento
-- Pesquisar pacientes por mês de nascimento
-- Pesquisar pacientes por dia de nascimento
+- Pesquisar pacientes por ano do registro
+- Pesquisar pacientes por mês do registro
+- Pesquisar pacientes por dia do registro
 - Pesquisar pacientes por idade
 
 ### Desfazer Operação
