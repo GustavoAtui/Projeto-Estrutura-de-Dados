@@ -39,3 +39,11 @@ O projeto está dividido em cinco áreas principais:
 - **Pilha**: Implementada para desfazer a última operação de enfileiramento ou desenfileiramento.
 - **Árvore Binária**: Utilizada para pesquisas rápidas de pacientes.
 
+## Sobre os desenvolvedores 
+- Gustavo Atui
+    - 4 semestre 
+    - R.A: 24.123.072-1
+- Renan Casemiro
+    - 4 semestre 
+    - R.A: 24.123.019-2
+    
